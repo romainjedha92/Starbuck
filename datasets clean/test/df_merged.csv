@@ -1,0 +1,383 @@
+City_x,2019,2020,2021,State/Province_x,City_State_x,Matched_Index,Count,City_y,State/Province_y,Longitude,Latitude,City_State_y,City_State,matches
+Akron,51827,55232,58735,OH,"Akron, OH",22,10,Akron, OH,-81.51,41.08,"Akron,  OH","Akron,  OH",Akron
+Albany,38118,42006,45619,GA,"Albany, GA",29,3,Albany, GA,-84.22,31.61,"Albany,  GA","Albany,  GA",Albany
+Lebanon,44501,48357,52695,OR,"Lebanon, OR",1755,1,Lebanon, OR,-122.91,44.53,"Lebanon,  OR","Lebanon,  OR","Lebanon, Lebanon"
+Troy,59477,63951,67788,NY,"Troy, NY",3228,1,Troy, NY,-73.68,42.74,"Troy,  NY","Troy,  NY","Troy, Troy"
+Albuquerque,44884,48514,52263,NM,"Albuquerque, NM",32,37,Albuquerque, NM,-106.69,35.18,"Albuquerque,  NM","Albuquerque,  NM",Albuquerque
+Alexandria,44057,48326,51738,LA,"Alexandria, LA",35,2,Alexandria, LA,-92.47,31.28,"Alexandria,  LA","Alexandria,  LA","Alexandria, Alexandria"
+Alexandria,72992,76110,80822,DCVAMDWV,"Alexandria, DCVAMDWV",35,2,Alexandria, LA,-92.47,31.28,"Alexandria,  LA","Alexandria,  LA","Alexandria, Alexandria"
+Altoona,47034,51007,54470,PA,"Altoona, PA",52,2,Altoona, IA,-93.5,41.64,"Altoona,  IA","Altoona,  IA",Altoona
+Boardman,42450,46009,48904,OHPA,"Boardman, OHPA",298,1,Boardman, OH,-80.68,41.02,"Boardman,  OH","Boardman,  OH",Boardman
+Amarillo,49109,52617,56248,TX,"Amarillo, TX",54,4,Amarillo, TX,-101.8,35.19,"Amarillo,  TX","Amarillo,  TX",Amarillo
+Ames,44630,46787,49320,IA,"Ames, IA",58,5,Ames, IA,-93.62,42.02,"Ames,  IA","Ames,  IA","Ames, Jamestown"
+Anchorage,62824,64367,67085,AK,"Anchorage, AK",67,24,Anchorage, AK,-149.78,61.21,"Anchorage,  AK","Anchorage,  AK",Anchorage
+AnnArbor,61447,64636,68688,MI,"AnnArbor, MI",78,14,Ann Arbor, MI,-83.77,42.24,"Ann Arbor,  MI","Ann Arbor,  MI",Ann Arbor
+Oxford,36869,39546,42621,AL,"Oxford, AL",2440,2,Oxford, AL,-85.78,33.61,"Oxford,  AL","Oxford,  AL","Oxford, Oxford"
+Appleton,52516,55177,58312,WI,"Appleton, WI",92,4,Appleton, WI,-88.47,44.27,"Appleton,  WI","Appleton,  WI",Appleton
+Asheville,48247,50891,54827,NC,"Asheville, NC",113,13,Asheville, NC,-82.52,35.58,"Asheville,  NC","Asheville,  NC","Asheville, Shelbyville"
+ClarkeCounty,42765,45046,48323,GA,"ClarkeCounty, GA",585,2,Clarkston, WA,-117.04,46.42,"Clarkston,  WA","Clarkston,  WA",Clarke County
+Alpharetta,56120,58963,63219,GA,"Alpharetta, GA",49,17,Alpharetta, GA,-84.36,34.08,"Alpharetta,  GA","Alpharetta,  GA",Alpharetta
+Hammonton,50196,55273,58310,NJ,"Hammonton, NJ",1338,1,Hammonton, NJ,-74.74,39.55,"Hammonton,  NJ","Hammonton,  NJ",Hammonton
+Opelika,39355,41760,45002,AL,"Opelika, AL",2405,3,Opelika, AL,-85.41,32.62,"Opelika,  AL","Opelika,  AL",Opelika
+Easton,55269,58454,62618,PANJ,"Easton, PANJ",890,2,Easton, PA,-75.27,40.69,"Easton,  PA","Easton,  PA","Easton, Easton"
+Georgetown,63466,64916,71372,TX,"Georgetown, TX",1201,4,Georgetown, TX,-97.7,30.63,"Georgetown,  TX","Georgetown,  TX","Georgetown, Georgetown"
+Bakersfield,39477,44063,45961,CA,"Bakersfield, CA",160,36,Bakersfield, CA,-119.05,35.3,"Bakersfield,  CA","Bakersfield,  CA",Bakersfield
+Towson,62379,66328,70490,MD,"Towson, MD",3215,8,Towson, MD,-76.6,39.4,"Towson,  MD","Towson,  MD",Towson
+Bangor,43086,47574,50480,ME,"Bangor, ME",167,3,Bangor, ME,-68.74,44.84,"Bangor,  ME","Bangor,  ME",Bangor
+BarnstableTown,74107,79136,83191,MA,"BarnstableTown, MA",3379,2,Watertown, MA,-71.18,42.37,"Watertown,  MA","Watertown,  MA",Barnstable Town
+BatonRouge,49639,53102,56396,LA,"BatonRouge, LA",185,10,Baton Rouge, LA,-91.14,30.42,"Baton Rouge,  LA","Baton Rouge,  LA",Baton Rouge
+BattleCreek,40497,44796,47789,MI,"BattleCreek, MI",186,2,Battle Creek, MI,-85.18,42.26,"Battle Creek,  MI","Battle Creek,  MI",Battle Creek
+BayCity,43230,47430,50396,MI,"BayCity, MI",189,1,Bay City, MI,-83.89,43.62,"Bay City,  MI","Bay City,  MI","Bay City, Bay City"
+PortArthur,44816,46711,49006,TX,"PortArthur, TX",2603,1,Porter, TX,-95.24,30.1,"Porter,  TX","Porter,  TX",Port Arthur
+Beckley,41334,42783,46166,WV,"Beckley, WV",203,2,Beckley, WV,-81.18,37.8,"Beckley,  WV","Beckley,  WV","Beckley, Berkeley"
+Bellingham,51683,54927,58137,WA,"Bellingham, WA",227,14,Bellingham, WA,-122.47,48.73,"Bellingham,  WA","Bellingham,  WA",Bellingham
+Bend,58666,63872,67743,OR,"Bend, OR",238,12,Bend, OR,-121.26,44.06,"Bend,  OR","Bend,  OR","Bend, Great Bend"
+Billings,53437,56515,59698,MT,"Billings, MT",267,9,Billings, MT,-108.58,45.76,"Billings,  MT","Billings,  MT",Billings
+Binghamton,44318,48318,51295,NY,"Binghamton, NY",269,2,Binghamton, NY,-75.9,42.14,"Binghamton,  NY","Binghamton,  NY",Binghamton
+Hoover,52310,55086,59107,AL,"Hoover, AL",1451,5,Hoover, AL,-86.85,33.36,"Hoover,  AL","Hoover,  AL",Hoover
+Bismarck,58252,60766,64134,ND,"Bismarck, ND",275,4,Bismarck, ND,-100.78,46.8,"Bismarck,  ND","Bismarck,  ND",Bismarck
+Christiansburg,38907,41322,44904,VA,"Christiansburg, VA",567,2,Christiansburg, VA,-80.42,37.16,"Christiansburg,  VA","Christiansburg,  VA",Christiansburg
+Bloomington,50152,55203,58503,IL,"Bloomington, IL",288,3,Bloomington, IL,-88.95,40.5,"Bloomington,  IL","Bloomington,  IL","Bloomington, Bloomington"
+Bloomington,45426,48386,51899,IN,"Bloomington, IN",289,7,Bloomington, IN,-86.57,39.17,"Bloomington,  IN","Bloomington,  IN","Bloomington, Bloomington"
+Berwick,46588,50436,53309,PA,"Berwick, PA",386,4,Brunswick, GA,-81.52,31.22,"Brunswick,  GA","Brunswick,  GA",Berwick
+Brunswick,44776,48311,51400,GA,"Brunswick, GA",386,4,Brunswick, GA,-81.52,31.22,"Brunswick,  GA","Brunswick,  GA",Brunswick
+BoiseCity,48396,52174,55487,ID,"BoiseCity, ID",302,23,Boise, ID,-116.28,43.61,"Boise,  ID","Boise,  ID",Boise City
+Newton,81126,86239,92290,MANH,"Newton, MANH",2261,3,Newton, MA,-71.21,42.31,"Newton,  MA","Newton,  MA",Newton
+Boulder,79698,83173,89593,CO,"Boulder, CO",317,15,Boulder, CO,-105.25,40.03,"Boulder,  CO","Boulder,  CO",Boulder
+BowlingGreen,37772,40610,43282,KY,"BowlingGreen, KY",322,5,Bowling Green, KY,-86.47,36.96,"Bowling Green,  KY","Bowling Green,  KY",Bowling Green
+PortOrchard,58290,62308,67845,WA,"PortOrchard, WA",2596,5,Port Orchard, WA,-122.61,47.54,"Port Orchard,  WA","Port Orchard,  WA",Port Orchard
+Norwalk,116996,119366,127391,CT,"Norwalk, CT",2334,3,Norwalk, CT,-73.4,41.12,"Norwalk,  CT","Norwalk,  CT","Norwalk, Norwalk"
+Harlingen,30361,34040,37861,TX,"Harlingen, TX",1352,4,Harlingen, TX,-97.72,26.19,"Harlingen,  TX","Harlingen,  TX",Harlingen
+Cheektowaga,49961,54462,56808,NY,"Cheektowaga, NY",539,4,Cheektowaga, NY,-78.77,42.91,"Cheektowaga,  NY","Cheektowaga,  NY",Cheektowaga
+Burlington,41493,44418,48118,NC,"Burlington, NC",413,4,Burlington, NC,-79.48,36.08,"Burlington,  NC","Burlington,  NC","Burlington, Burlington"
+SouthBurlington,59027,62379,65083,VT,"SouthBurlington, VT",415,2,Burlington, VT,-73.21,44.48,"Burlington,  VT","Burlington,  VT","South Burlington, Burlington"
+LexingtonPark,58853,61874,65762,MD,"LexingtonPark, MD",1780,2,Lexington, MA,-71.23,42.45,"Lexington,  MA","Lexington,  MA","Lexington Park, Lexington"
+Massillon,45591,48932,52152,OH,"Massillon, OH",1965,2,Massillon, OH,-81.52,40.77,"Massillon,  OH","Massillon,  OH",Massillon
+FortMyers,56549,59300,62885,FL,"FortMyers, FL",1092,15,Fort Myers, FL,-81.86,26.6,"Fort Myers,  FL","Fort Myers,  FL",Fort Myers
+CapeGirardeau,42998,45994,48447,MOIL,"CapeGirardeau, MOIL",466,3,Cape Girardeau, MO,-89.58,37.3,"Cape Girardeau,  MO","Cape Girardeau,  MO",Cape Girardeau
+Marion,42199,45463,48769,IL,"Marion, IL",1938,2,Marion, IL,-88.98,37.75,"Marion,  IL","Marion,  IL","Marion, Marion"
+CarsonCity,50973,55239,60445,NV,"CarsonCity, NV",484,6,Carson City, NV,-119.78,39.2,"Carson City,  NV","Carson City,  NV","Carson City, Cañon City"
+Casper,69791,67229,70175,WY,"Casper, WY",491,4,Casper, WY,-106.33,42.86,"Casper,  WY","Casper,  WY","Casper, Jasper"
+CedarRapids,52697,55865,59063,IA,"CedarRapids, IA",505,9,Cedar Rapids, IA,-91.66,41.96,"Cedar Rapids,  IA","Cedar Rapids,  IA",Cedar Rapids
+Waynesboro,48017,51665,55139,PA,"Waynesboro, PA",3396,2,Waynesboro, VA,-78.95,38.06,"Waynesboro,  VA","Waynesboro,  VA",Waynesboro
+Urbana,47211,51362,55335,IL,"Urbana, IL",3273,3,Urbana, IL,-88.23,40.11,"Urbana,  IL","Urbana,  IL","Urbana, Urbana"
+Charleston,45195,48229,51638,WV,"Charleston, WV",532,3,Charleston, WV,-81.71,38.34,"Charleston,  WV","Charleston,  WV","Charleston, North Charleston"
+NorthCharleston,55099,56887,60754,SC,"NorthCharleston, SC",531,14,Charleston, SC,-80,32.81,"Charleston,  SC","Charleston,  SC","North Charleston, Charleston"
+Gastonia,54809,57713,62056,NCSC,"Gastonia, NCSC",1195,3,Gastonia, NC,-81.13,35.26,"Gastonia,  NC","Gastonia,  NC","Gastonia, Astoria"
+Charlottesville,69409,72025,77070,VA,"Charlottesville, VA",534,9,Charlottesville, VA,-78.44,38.03,"Charlottesville,  VA","Charlottesville,  VA","Charlottesville, Pottsville"
+Chattanooga,48210,50566,53906,TNGA,"Chattanooga, TNGA",538,7,Chattanooga, TN,-85.3,35.05,"Chattanooga,  TN","Chattanooga,  TN",Chattanooga
+Cheyenne,53181,54959,58646,WY,"Cheyenne, WY",557,7,Cheyenne, WY,-104.76,41.16,"Cheyenne,  WY","Cheyenne,  WY",Cheyenne
+Elgin,63024,66474,71992,ILINWI,"Elgin, ILINWI",922,2,Elgin, IL,-88.34,42.03,"Elgin,  IL","Elgin,  IL",Elgin
+Chico,46174,51402,54694,CA,"Chico, CA",560,8,Chico, CA,-121.84,39.74,"Chico,  CA","Chico,  CA",Chico
+Cincinnati,56152,59502,63116,OHKYIN,"Cincinnati, OHKYIN",571,40,Cincinnati, OH,-84.33,39.27,"Cincinnati,  OH","Cincinnati,  OH",Cincinnati
+Clarksville,41503,44572,47519,TNKY,"Clarksville, TNKY",588,5,Clarksville, TN,-87.35,36.53,"Clarksville,  TN","Clarksville,  TN",Clarksville
+Cleveland,39329,42279,45404,TN,"Cleveland, TN",604,3,Cleveland, TN,-84.88,35.16,"Cleveland,  TN","Cleveland,  TN","Cleveland, Cleveland"
+Elyria,54867,58215,61948,OH,"Elyria, OH",943,1,Elyria, OH,-82.08,41.41,"Elyria,  OH","Elyria,  OH",Elyria
+CoeurdAlene,47745,51109,54406,ID,"CoeurdAlene, ID",867,2,Eagle, ID,-116.35,43.69,"Eagle,  ID","Eagle,  ID",Coeur d'Alene
+Bryan,42228,44358,47803,TX,"Bryan, TX",389,3,Bryan, TX,-96.33,30.66,"Bryan,  TX","Bryan,  TX",Bryan
+ColoradoSprings,51113,54817,58736,CO,"ColoradoSprings, CO",645,42,Colorado Springs, CO,-104.82,38.81,"Colorado Springs,  CO","Colorado Springs,  CO",Colorado Springs
+Columbia,48068,50767,53583,MO,"Columbia, MO",649,8,Columbia, MO,-92.36,38.95,"Columbia,  MO","Columbia,  MO","Columbia, Columbia"
+Columbia,47430,49926,53286,SC,"Columbia, SC",647,1,Columbia Nw, SC,-81.17,34.07,"Columbia Nw,  SC","Columbia Nw,  SC","Columbia, Columbia"
+Columbus,40594,43539,47349,GAAL,"Columbus, GAAL",652,4,Columbus, GA,-84.95,32.54,"Columbus,  GA","Columbus,  GA","Columbus, Columbus"
+Columbus,54102,57535,61136,IN,"Columbus, IN",653,4,Columbus, IN,-85.89,39.22,"Columbus,  IN","Columbus,  IN","Columbus, Columbus"
+Columbus,52627,56537,59867,OH,"Columbus, OH",656,45,Columbus, OH,-82.89,40,"Columbus,  OH","Columbus,  OH","Columbus, Columbus"
+CorpusChristi,47023,48875,52612,TX,"CorpusChristi, TX",687,1,Corinth, TX,-97.04,33.13,"Corinth,  TX","Corinth,  TX",Corpus Christi
+Corvallis,47290,50628,54174,OR,"Corvallis, OR",701,6,Corvallis, OR,-123.26,44.56,"Corvallis,  OR","Corvallis,  OR",Corvallis
+Destin,56856,60205,64660,FL,"Destin, FL",819,3,Destin, FL,-86.42,30.39,"Destin,  FL","Destin,  FL",Destin
+Cumberland,41971,45163,47576,MDWV,"Cumberland, MDWV",648,7,Columbia, MD,-76.88,39.22,"Columbia,  MD","Columbia,  MD",Cumberland
+Arlington,60053,61824,66727,TX,"Arlington, TX",103,16,Arlington, TX,-97.11,32.67,"Arlington,  TX","Arlington,  TX","Arlington, Burlington"
+Dalton,38282,41636,44668,GA,"Dalton, GA",753,2,Dalton, GA,-84.96,34.8,"Dalton,  GA","Dalton,  GA","Dalton, Dayton"
+Danville,40054,44975,49265,IL,"Danville, IL",760,6,Danville, CA,-122,37.82,"Danville,  CA","Danville,  CA","Danville, Danville"
+Foley,48380,51348,54659,AL,"Foley, AL",1049,1,Foley, AL,-87.68,30.38,"Foley,  AL","Foley,  AL",Foley
+RockIsland,49005,52697,56181,IAIL,"RockIsland, IAIL",2363,21,Oakland, CA,-122.25,37.79,"Oakland,  CA","Oakland,  CA",Rock Island
+Kettering,48913,52599,55572,OH,"Kettering, OH",1601,1,Kettering, OH,-84.12,39.7,"Kettering,  OH","Kettering,  OH",Kettering
+Decatur,39731,42940,46533,AL,"Decatur, AL",783,2,Decatur, AL,-86.96,34.59,"Decatur,  AL","Decatur,  AL","Decatur, Decatur"
+Decatur,47492,51804,56548,IL,"Decatur, IL",785,2,Decatur, IL,-88.96,39.89,"Decatur,  IL","Decatur,  IL","Decatur, Decatur"
+OrmondBeach,47312,49310,53559,FL,"OrmondBeach, FL",2423,2,Ormond Beach, FL,-81.04,29.29,"Ormond Beach,  FL","Ormond Beach,  FL",Ormond Beach
+Lakewood,68591,71728,78150,CO,"Lakewood, CO",1705,13,Lakewood, CO,-105.1,39.74,"Lakewood,  CO","Lakewood,  CO",Lakewood
+WestDesMoines,55183,58725,61833,IA,"WestDesMoines, IA",813,7,Des Moines, IA,-93.78,41.56,"Des Moines,  IA","Des Moines,  IA",West Des Moines
+Dearborn,53428,57755,60965,MI,"Dearborn, MI",781,2,Dearborn Heights, MI,-83.3,42.33,"Dearborn Heights,  MI","Dearborn Heights,  MI",Dearborn
+Dothan,42868,45839,49343,AL,"Dothan, AL",834,1,Dothan, AL,-85.45,31.27,"Dothan,  AL","Dothan,  AL",Dothan
+Dover,44490,46542,50432,DE,"Dover, DE",836,2,Dover, DE,-75.51,39.16,"Dover,  DE","Dover,  DE","Dover, Dover"
+Dubuque,50370,53684,56782,IA,"Dubuque, IA",847,3,Dubuque, IA,-90.74,42.52,"Dubuque,  IA","Dubuque,  IA",Dubuque
+Duluth,47006,50062,53734,MNWI,"Duluth, MNWI",850,5,Duluth, MN,-92.17,46.81,"Duluth,  MN","Duluth,  MN",Duluth
+ChapelHill,55548,58491,63375,NC,"ChapelHill, NC",527,7,Chapel Hill, NC,-79.05,35.9,"Chapel Hill,  NC","Chapel Hill,  NC",Chapel Hill
+EastStroudsburg,45196,49469,53118,PA,"EastStroudsburg, PA",3115,1,Stroudsburg, PA,-75.2,40.98,"Stroudsburg,  PA","Stroudsburg,  PA",East Stroudsburg
+EauClaire,48595,51626,54814,WI,"EauClaire, WI",893,3,Eau Claire, WI,-91.43,44.78,"Eau Claire,  WI","Eau Claire,  WI",Eau Claire
+ElCentro,37904,45021,47653,CA,"ElCentro, CA",912,4,El Centro, CA,-115.57,32.82,"El Centro,  CA","El Centro,  CA",El Centro
+FortKnox,43113,46540,50016,KY,"FortKnox, KY",1078,1,Fort Knox, KY,-85.95,37.88,"Fort Knox,  KY","Fort Knox,  KY",Fort Knox
+Goshen,45873,49321,55007,IN,"Goshen, IN",1247,3,Goshen, IN,-85.86,41.6,"Goshen,  IN","Goshen,  IN",Goshen
+Elmira,45402,49108,52360,NY,"Elmira, NY",940,1,Elmira, NY,-76.82,42.1,"Elmira,  NY","Elmira,  NY",Elmira
+ElPaso,37883,40763,44058,TX,"ElPaso, TX",917,21,El Paso, TX,-106.3,31.72,"El Paso,  TX","El Paso,  TX",El Paso
+Enid,43701,44850,48861,OK,"Enid, OK",953,1,Enid, OK,-97.91,36.39,"Enid,  OK","Enid,  OK",Enid
+Erie,45883,49969,52747,PA,"Erie, PA",961,6,Erie, PA,-80.1,42.07,"Erie,  PA","Erie,  PA",Erie
+Springfield,46752,51272,55146,OR,"Springfield, OR",3046,5,Springfield, OR,-123.02,44.06,"Springfield,  OR","Springfield,  OR","Springfield, Springfield"
+Evansville,49485,52939,56650,INKY,"Evansville, INKY",971,6,Evansville, IN,-87.57,38.02,"Evansville,  IN","Evansville,  IN","Evansville, Zanesville"
+Fairbanks,59011,61856,65314,AK,"Fairbanks, AK",980,5,Fairbanks, AK,-147.81,64.84,"Fairbanks,  AK","Fairbanks,  AK",Fairbanks
+Fargo,54323,58002,62021,NDMN,"Fargo, NDMN",1001,3,Fargo, ND,-96.82,46.83,"Fargo,  ND","Fargo,  ND",Fargo
+Farmington,36599,38835,41735,NM,"Farmington, NM",1006,3,Farmington, NM,-108.16,36.75,"Farmington,  NM","Farmington,  NM","Farmington, Farmington"
+Fayetteville,38364,41563,45542,NC,"Fayetteville, NC",1012,7,Fayetteville, NC,-78.96,35.07,"Fayetteville,  NC","Fayetteville,  NC","Fayetteville, Fayette"
+Rogers,64552,66213,70594,AR,"Rogers, AR",2741,4,Rogers, AR,-94.18,36.33,"Rogers,  AR","Rogers,  AR",Rogers
+Flagstaff,49454,54008,56914,AZ,"Flagstaff, AZ",1030,10,Flagstaff, AZ,-111.62,35.22,"Flagstaff,  AZ","Flagstaff,  AZ",Flagstaff
+Flint,42141,46371,49399,MI,"Flint, MI",1034,2,Flint, MI,-83.64,43.02,"Flint,  MI","Flint,  MI",Flint
+Florence,43528,46546,50386,SC,"Florence, SC",1039,3,Florence, SC,-79.83,34.19,"Florence,  SC","Florence,  SC",Florence
+MuscleShoals,38390,41516,44605,AL,"MuscleShoals, AL",3248,4,Tuscaloosa, AL,-87.55,33.21,"Tuscaloosa,  AL","Tuscaloosa,  AL",Muscle Shoals
+Tuscaloosa,37609,40238,43362,AL,"Tuscaloosa, AL",3248,4,Tuscaloosa, AL,-87.55,33.21,"Tuscaloosa,  AL","Tuscaloosa,  AL",Tuscaloosa
+FondduLac,49996,53124,56378,WI,"FondduLac, WI",1051,3,Fond Du Lac, WI,-88.48,43.78,"Fond Du Lac,  WI","Fond Du Lac,  WI",Fond du Lac
+FortCollins,56851,60219,64258,CO,"FortCollins, CO",1147,1,Ft Collins, CO,-105.07,40.52,"Ft Collins,  CO","Ft Collins,  CO",Fort Collins
+FortSmith,39548,41864,45134,AROK,"FortSmith, AROK",1096,1,Fort Smith, AR,-94.36,35.36,"Fort Smith,  AR","Fort Smith,  AR",Fort Smith
+FortWayne,47392,50602,54623,IN,"FortWayne, IN",1101,16,Fort Wayne, IN,-85.14,41.18,"Fort Wayne,  IN","Fort Wayne,  IN","Fort Wayne, Fort Payne"
+Fresno,42987,48312,51422,CA,"Fresno, CA",1139,36,Fresno, CA,-119.79,36.78,"Fresno,  CA","Fresno,  CA","Fresno, Reno"
+Gadsden,37407,39795,42558,AL,"Gadsden, AL",1168,1,Gadsden, AL,-86.08,33.99,"Gadsden,  AL","Gadsden,  AL",Gadsden
+Gainesville,44323,47251,50623,FL,"Gainesville, FL",1171,13,Gainesville, FL,-82.32,29.65,"Gainesville,  FL","Gainesville,  FL","Gainesville, Gainesville"
+Gainesville,47263,49925,53920,GA,"Gainesville, GA",1172,3,Gainesville, GA,-83.87,34.37,"Gainesville,  GA","Gainesville,  GA","Gainesville, Gainesville"
+Gettysburg,49380,52801,55752,PA,"Gettysburg, PA",1205,1,Gettysburg, PA,-77.2,39.84,"Gettysburg,  PA","Gettysburg,  PA",Gettysburg
+GlensFalls,48193,52941,56040,NY,"GlensFalls, NY",1227,1,Glendale, NY,-73.87,40.71,"Glendale,  NY","Glendale,  NY",Glens Falls
+Goldsboro,42187,45415,49881,NC,"Goldsboro, NC",1241,3,Goldsboro, NC,-77.94,35.38,"Goldsboro,  NC","Goldsboro,  NC",Goldsboro
+GrandForks,49829,54766,58295,NDMN,"GrandForks, NDMN",73,1,Andover, MN,-93.32,45.22,"Andover,  MN","Andover,  MN",Grand Forks
+GrandIsland,44417,48123,52472,NE,"GrandIsland, NE",1259,1,Grand Island, NE,-98.38,40.92,"Grand Island,  NE","Grand Island,  NE",Grand Island
+GrandJunction,46318,48884,52121,CO,"GrandJunction, CO",1260,14,Grand Junction, CO,-108.59,39.08,"Grand Junction,  CO","Grand Junction,  CO",Grand Junction
+Kentwood,50762,54794,57667,MI,"Kentwood, MI",1595,1,Kentwood, MI,-85.63,42.85,"Kentwood,  MI","Kentwood,  MI",Kentwood
+GrantsPass,44048,49062,54466,OR,"GrantsPass, OR",1269,3,Grants Pass, OR,-123.32,42.43,"Grants Pass,  OR","Grants Pass,  OR","Grants Pass, Grants"
+GreatFalls,47303,50576,53765,MT,"GreatFalls, MT",501,3,Cedar Falls, IA,-92.44,42.51,"Cedar Falls,  IA","Cedar Falls,  IA",Great Falls
+CedarFalls,46856,50228,53584,IA,"CedarFalls, IA",501,3,Cedar Falls, IA,-92.44,42.51,"Cedar Falls,  IA","Cedar Falls,  IA",Cedar Falls
+Greeley,50117,52354,56553,CO,"Greeley, CO",1278,8,Greeley, CO,-104.75,40.39,"Greeley,  CO","Greeley,  CO",Greeley
+GreenBay,52398,55365,58240,WI,"GreenBay, WI",1287,2,Greendale, WI,-88,42.95,"Greendale,  WI","Greendale,  WI",Green Bay
+HighPoint,44799,47770,51872,NC,"HighPoint, NC",1410,4,High Point, NC,-80.02,35.98,"High Point,  NC","High Point,  NC",High Point
+Greenville,45951,49350,53200,NC,"Greenville, NC",1295,9,Greenville, NC,-77.37,35.61,"Greenville,  NC","Greenville,  NC","Greenville, Greenville"
+Anderson,46017,47924,50908,SC,"Anderson, SC",70,2,Anderson, SC,-82.68,34.55,"Anderson,  SC","Anderson,  SC","Anderson, Anderson"
+Biloxi,38424,41852,44488,MS,"Biloxi, MS",268,3,Biloxi, MS,-88.86,30.39,"Biloxi,  MS","Biloxi,  MS",Biloxi
+Martinsburg,44846,47882,51102,MDWV,"Martinsburg, MDWV",1950,2,Martinsburg, WV,-77.99,39.44,"Martinsburg,  WV","Martinsburg,  WV","Martinsburg, Martin"
+Hammond,40912,44234,47076,LA,"Hammond, LA",1337,3,Hammond, LA,-90.49,30.5,"Hammond,  LA","Hammond,  LA",Hammond
+Corcoran,36599,41397,43176,CA,"Corcoran, CA",695,12,Corona, CA,-117.57,33.84,"Corona,  CA","Corona,  CA",Corcoran
+Carlisle,53645,57640,60517,PA,"Carlisle, PA",472,3,Carlisle, PA,-77.18,40.2,"Carlisle,  PA","Carlisle,  PA",Carlisle
+Harrisonburg,40770,43425,47217,VA,"Harrisonburg, VA",1358,6,Harrisonburg, VA,-78.88,38.43,"Harrisonburg,  VA","Harrisonburg,  VA","Harrisonburg, Harrison"
+Middletown,64078,67011,69951,CT,"Middletown, CT",2036,1,Middletown, DE,-75.7,39.45,"Middletown,  DE","Middletown,  DE","Middletown, Middletown"
+Hattiesburg,38676,41449,44538,MS,"Hattiesburg, MS",1368,3,Hattiesburg, MS,-89.33,31.33,"Hattiesburg,  MS","Hattiesburg,  MS",Hattiesburg
+Morganton,41556,44678,48529,NC,"Morganton, NC",2130,1,Morganton, NC,-81.71,35.74,"Morganton,  NC","Morganton,  NC","Morganton, Morgantown"
+Bluffton,59860,62682,66256,SC,"Bluffton, SC",296,4,Bluffton, SC,-80.85,32.25,"Bluffton,  SC","Bluffton,  SC","Bluffton, Bluffton"
+Hinesville,35207,38128,41012,GA,"Hinesville, GA",1427,1,Hinesville, GA,-81.64,31.97,"Hinesville,  GA","Hinesville,  GA","Hinesville, Gainesville"
+HomosassaSprings,39985,42292,45050,FL,"HomosassaSprings, FL",684,7,Coral Springs, FL,-80.25,26.24,"Coral Springs,  FL","Coral Springs,  FL",Homosassa Springs
+HotSprings,41510,44472,46897,AR,"HotSprings, AR",1458,1,Hot Springs, AR,-93.06,34.46,"Hot Springs,  AR","Hot Springs,  AR",Hot Springs
+Thibodaux,44489,46898,49613,LA,"Thibodaux, LA",3189,1,Thibodaux, LA,-90.82,29.81,"Thibodaux,  LA","Thibodaux,  LA",Thibodaux
+SugarLand,60173,61133,64837,TX,"SugarLand, TX",3124,3,Sugarland, TX,-95.62,29.6,"Sugarland,  TX","Sugarland,  TX",Sugar Land
+Ashland,41213,44258,47505,WVKYOH,"Ashland, WVKYOH",114,1,Ashland, KY,-82.64,38.48,"Ashland,  KY","Ashland,  KY","Ashland, Ashland"
+Huntsville,51384,54577,57815,AL,"Huntsville, AL",1477,7,Huntsville, AL,-86.59,34.77,"Huntsville,  AL","Huntsville,  AL","Huntsville, Huntsville"
+IdahoFalls,48207,51985,55084,ID,"IdahoFalls, ID",2611,1,Post Falls, ID,-116.9,47.71,"Post Falls,  ID","Post Falls,  ID",Idaho Falls
+TwinFalls,39910,43052,44937,ID,"TwinFalls, ID",2611,1,Post Falls, ID,-116.9,47.71,"Post Falls,  ID","Post Falls,  ID",Twin Falls
+Anderson,57156,61155,65805,IN,"Anderson, IN",69,2,Anderson, IN,-85.66,40.14,"Anderson,  IN","Anderson,  IN","Anderson, Anderson"
+IowaCity,55518,57345,60316,IA,"IowaCity, IA",2616,5,Poway, CA,-117.07,32.95,"Poway,  CA","Poway,  CA",Iowa City
+Ithaca,45232,48541,51377,NY,"Ithaca, NY",1515,3,Ithaca, NY,-76.5,42.44,"Ithaca,  NY","Ithaca,  NY",Ithaca
+Jackson,39775,44152,47503,MI,"Jackson, MI",1520,2,Jackson, MI,-84.42,42.27,"Jackson,  MI","Jackson,  MI","Jackson, Jackson"
+Jackson,45026,48872,51982,MS,"Jackson, MS",1522,2,Jackson, MS,-90.15,32.36,"Jackson,  MS","Jackson,  MS","Jackson, Jackson"
+Jackson,41672,44926,48718,TN,"Jackson, TN",1523,5,Jackson, TN,-88.85,35.67,"Jackson,  TN","Jackson,  TN","Jackson, Jackson"
+Jacksonville,52086,55158,59271,FL,"Jacksonville, FL",1525,2,Jacksonville Beach, FL,-81.39,30.25,"Jacksonville Beach,  FL","Jacksonville Beach,  FL","Jacksonville, Jacksonville"
+Jacksonville,44307,46972,50869,NC,"Jacksonville, NC",1529,3,Jacksonville, NC,-77.4,34.79,"Jacksonville,  NC","Jacksonville,  NC","Jacksonville, Jacksonville"
+Beloit,45883,49129,52787,WI,"Beloit, WI",231,1,Beloit, WI,-88.98,42.52,"Beloit,  WI","Beloit,  WI",Beloit
+JeffersonCity,44668,48551,51286,MO,"JeffersonCity, MO",1536,2,Jefferson City, MO,-92.21,38.58,"Jefferson City,  MO","Jefferson City,  MO","Jefferson City, Jefferson"
+JohnsonCity,41712,44767,48257,TN,"JohnsonCity, TN",1549,5,Johnson City, TN,-82.37,36.31,"Johnson City,  TN","Johnson City,  TN",Johnson City
+Johnstown,43120,46609,49472,PA,"Johnstown, PA",1552,1,Johnstown, PA,-78.85,40.28,"Johnstown,  PA","Johnstown,  PA",Johnstown
+Jonesboro,38086,41439,44554,AR,"Jonesboro, AR",1555,4,Jonesboro, AR,-90.67,35.82,"Jonesboro,  AR","Jonesboro,  AR",Jonesboro
+Joplin,39800,41646,44292,MO,"Joplin, MO",1557,4,Joplin, MO,-94.53,37.07,"Joplin,  MO","Joplin,  MO",Joplin
+Lahaina,52301,53586,58520,HI,"Lahaina, HI",1670,4,Lahaina, HI,-156.68,20.88,"Lahaina,  HI","Lahaina,  HI",Lahaina
+Portage,50835,54954,58524,MI,"Portage, MI",2602,2,Portage, MI,-85.6,42.21,"Portage,  MI","Portage,  MI","Portage, Portales"
+Kankakee,43515,47846,53165,IL,"Kankakee, IL",1569,3,Kaneohe, HI,-157.8,21.4,"Kaneohe,  HI","Kaneohe,  HI",Kankakee
+KansasCity,55300,58145,61410,MOKS,"KansasCity, MOKS",1570,3,Kansas City, KS,-94.76,39.12,"Kansas City,  KS","Kansas City,  KS",Kansas City
+Richland,45599,48979,52082,WA,"Richland, WA",2689,6,Richland, WA,-119.27,46.23,"Richland,  WA","Richland,  WA",Richland
+Temple,42265,44892,47755,TX,"Temple, TX",3178,4,Temple, TX,-97.36,31.1,"Temple,  TX","Temple,  TX",Temple
+Bristol,40968,43835,47287,TNVA,"Bristol, TNVA",359,2,Bristol, VA,-82.1,36.64,"Bristol,  VA","Bristol,  VA",Bristol
+Kingston,53426,57057,60557,NY,"Kingston, NY",1621,2,Kingston, NY,-73.99,41.96,"Kingston,  NY","Kingston,  NY","Kingston, Kinston"
+Knoxville,48813,52083,55752,TN,"Knoxville, TN",1634,1,Knoxville West, TN,-84.05,35.92,"Knoxville West,  TN","Knoxville West,  TN",Knoxville
+Kokomo,41863,44266,47031,IN,"Kokomo, IN",1637,1,Kokomo, IN,-86.13,40.44,"Kokomo,  IN","Kokomo,  IN",Kokomo
+Onalaska,51497,54701,58414,WIMN,"Onalaska, WIMN",2402,1,Onalaska, WI,-91.19,43.87,"Onalaska,  WI","Onalaska,  WI",Onalaska
+Lafayette,45588,49332,52241,LA,"Lafayette, LA",1664,6,Lafayette, LA,-92.05,30.16,"Lafayette,  LA","Lafayette,  LA","Lafayette, West Lafayette"
+WestLafayette,41571,43955,46968,IN,"WestLafayette, IN",1663,5,Lafayette, IN,-86.92,40.45,"Lafayette,  IN","Lafayette,  IN","West Lafayette, Fayette"
+LakeCharles,46117,47312,51080,LA,"LakeCharles, LA",1673,5,Lake Charles, LA,-93.26,30.21,"Lake Charles,  LA","Lake Charles,  LA",Lake Charles
+Kingman,35647,38717,41331,AZ,"Kingman, AZ",1614,3,Kingman, AZ,-114.04,35.23,"Kingman,  AZ","Kingman,  AZ",Kingman
+WinterHaven,38196,40970,43556,FL,"WinterHaven, FL",3313,1,Viera, FL,-80.72,28.23,"Viera,  FL","Viera,  FL",Winter Haven
+VeroBeach,86856,89294,95109,FL,"VeroBeach, FL",3313,1,Viera, FL,-80.72,28.23,"Viera,  FL","Viera,  FL",Vero Beach
+Lancaster,54061,58214,61547,PA,"Lancaster, PA",1712,6,Lancaster, PA,-76.2,40.03,"Lancaster,  PA","Lancaster,  PA",Lancaster
+EastLansing,43178,47460,50326,MI,"EastLansing, MI",877,5,East Lansing, MI,-84.48,42.73,"East Lansing,  MI","East Lansing,  MI",East Lansing
+Laredo,34757,37273,40850,TX,"Laredo, TX",1725,5,Laredo, TX,-99.48,27.61,"Laredo,  TX","Laredo,  TX",Laredo
+LasCruces,38142,41597,45045,NM,"LasCruces, NM",1730,5,Las Cruces, NM,-106.78,32.29,"Las Cruces,  NM","Las Cruces,  NM",Las Cruces
+Paradise,51012,53562,58276,NV,"Paradise, NV",3029,9,Sparks, NV,-119.74,39.52,"Sparks,  NV","Sparks,  NV",Paradise
+Lawrence,46612,49290,51703,KS,"Lawrence, KS",1742,8,Lawrence, KS,-95.25,38.94,"Lawrence,  KS","Lawrence,  KS","Lawrence, Lawrenceburg"
+Lawton,42622,45515,47807,OK,"Lawton, OK",1745,2,Lawton, OK,-98.49,34.63,"Lawton,  OK","Lawton,  OK",Lawton
+Lebanon,48912,52399,55803,PA,"Lebanon, PA",1752,1,Lebanon, IN,-86.47,40.04,"Lebanon,  IN","Lebanon,  IN","Lebanon, Lebanon"
+Lewiston,45752,49378,52572,IDWA,"Lewiston, IDWA",1777,1,Lewiston, ID,-117,46.41,"Lewiston,  ID","Lewiston,  ID","Lewiston, Clewiston"
+Auburn,42075,46144,49766,ME,"Auburn, ME",137,1,Auburn, ME,-70.23,44.12,"Auburn,  ME","Auburn,  ME","Auburn, Auburn"
+Fayette,50708,54041,57519,KY,"Fayette, KY",1009,1,Fayette, PA,-80.18,40.45,"Fayette,  PA","Fayette,  PA","Fayette, Fayetteville"
+Lima,43618,47314,50353,OH,"Lima, OH",1789,1,Lima, OH,-84.12,40.74,"Lima,  OH","Lima,  OH",Lima
+Lincoln,51034,53917,56887,NE,"Lincoln, NE",1793,8,Lincoln, NE,-96.66,40.72,"Lincoln,  NE","Lincoln,  NE","Lincoln, Lincoln"
+Conway,47177,50247,53158,AR,"Conway, AR",672,4,Conway, AR,-92.42,35.09,"Conway,  AR","Conway,  AR",Conway
+Logan,40666,42943,46903,UTID,"Logan, UTID",1825,2,Logan, UT,-111.83,41.72,"Logan,  UT","Logan,  UT","Logan, Logansport"
+Longview,44068,45896,48868,TX,"Longview, TX",1838,3,Longview, TX,-94.72,32.53,"Longview,  TX","Longview,  TX","Longview, Longview"
+Longview,46108,49882,54550,WA,"Longview, WA",1839,6,Longview, WA,-122.94,46.14,"Longview,  WA","Longview,  WA","Longview, Longview"
+Anaheim,65006,70280,75821,CA,"Anaheim, CA",65,4,Anaheim Hills, CA,-117.79,33.85,"Anaheim Hills,  CA","Anaheim Hills,  CA",Anaheim
+LouisvilleJeffersonCounty,51779,55356,59425,KYIN,"LouisvilleJeffersonCounty, KYIN",1855,34,Louisville, KY,-85.56,38.3,"Louisville,  KY","Louisville,  KY","Louisville/Jefferson County, Jefferson"
+Lubbock,45637,47822,51045,TX,"Lubbock, TX",1860,11,Lubbock, TX,-101.96,33.55,"Lubbock,  TX","Lubbock,  TX",Lubbock
+Lynchburg,41365,44598,47374,VA,"Lynchburg, VA",1868,5,Lynchburg, VA,-79.17,37.35,"Lynchburg,  VA","Lynchburg,  VA",Lynchburg
+BibbCounty,40676,43725,46875,GA,"BibbCounty, GA",2704,1,Rincon, GA,-81.23,32.28,"Rincon,  GA","Rincon,  GA",Bibb County
+Madera,39388,44072,45757,CA,"Madera, CA",698,4,Corte Madera, CA,-122.52,37.93,"Corte Madera,  CA","Corte Madera,  CA",Madera
+Madison,61665,64799,69116,WI,"Madison, WI",1892,11,Madison, WI,-89.38,43.07,"Madison,  WI","Madison,  WI","Madison, Madison"
+Nashua,63263,67127,71849,NH,"Nashua, NH",2197,5,Nashua, NH,-71.5,42.77,"Nashua,  NH","Nashua,  NH",Nashua
+Manhattan,46208,48885,51163,KS,"Manhattan, KS",1914,3,Manhattan, KS,-96.56,39.18,"Manhattan,  KS","Manhattan,  KS",Manhattan
+Mankato,47120,50632,53543,MN,"Mankato, MN",1917,2,Mankato, MN,-93.95,44.17,"Mankato,  MN","Mankato,  MN",Mankato
+Mansfield,39903,43561,46366,OH,"Mansfield, OH",1921,3,Mansfield, OH,-82.55,40.72,"Mansfield,  OH","Mansfield,  OH","Mansfield, Marshfield"
+Mission,28256,31342,34503,TX,"Mission, TX",2084,1,Mission, TX,-98.29,26.2,"Mission,  TX","Mission,  TX",Mission
+Medford,47774,52410,56842,OR,"Medford, OR",1992,10,Medford, OR,-122.85,42.31,"Medford,  OR","Medford,  OR","Medford, Bedford"
+Memphis,48680,52023,56568,TNMSAR,"Memphis, TNMSAR",2002,23,Memphis, TN,-89.87,35.1,"Memphis,  TN","Memphis,  TN",Memphis
+Merced,38626,43980,46580,CA,"Merced, CA",2008,5,Merced, CA,-120.48,37.32,"Merced,  CA","Merced,  CA",Merced
+PompanoBeach,63610,66307,73522,FL,"PompanoBeach, FL",2581,2,Pompano Beach, FL,-80.1,26.23,"Pompano Beach,  FL","Pompano Beach,  FL",Pompano Beach
+LaPorte,42076,45323,49508,IN,"LaPorte, IN",1722,1,Laporte, TX,-95.03,29.65,"Laporte,  TX","Laporte,  TX",La Porte
+Midland,54951,58544,62055,MI,"Midland, MI",2044,1,Midland, MI,-84.25,43.66,"Midland,  MI","Midland,  MI","Midland, Midland"
+Midland,141994,109263,125455,TX,"Midland, TX",2045,6,Midland, TX,-102.14,32.02,"Midland,  TX","Midland,  TX","Midland, Midland"
+Waukesha,58192,61378,65803,WI,"Waukesha, WI",3386,4,Waukesha, WI,-88.24,43.02,"Waukesha,  WI","Waukesha,  WI",Waukesha
+Bloomington,64496,67688,71912,MNWI,"Bloomington, MNWI",290,7,Bloomington, MN,-93.24,44.86,"Bloomington,  MN","Bloomington,  MN","Bloomington, Bloomington"
+Missoula,53992,57895,61881,MT,"Missoula, MT",2086,6,Missoula, MT,-114.02,46.85,"Missoula,  MT","Missoula,  MT",Missoula
+Mobile,39416,42795,46402,AL,"Mobile, AL",2089,10,Mobile, AL,-88.18,30.7,"Mobile,  AL","Mobile,  AL",Mobile
+Modesto,43729,49128,52356,CA,"Modesto, CA",2090,19,Modesto, CA,-121.02,37.65,"Modesto,  CA","Modesto,  CA",Modesto
+Monroe,39956,43606,46859,LA,"Monroe, LA",2096,2,Monroe, LA,-92.12,32.53,"Monroe,  LA","Monroe,  LA","Monroe, Monroe"
+Monroe,47726,50472,53509,MI,"Monroe, MI",2095,1,Monroe, CT,-73.27,41.33,"Monroe,  CT","Monroe,  CT","Monroe, Monroe"
+Montgomery,43084,46139,49310,AL,"Montgomery, AL",2107,6,Montgomery, AL,-86.18,32.38,"Montgomery,  AL","Montgomery,  AL",Montgomery
+Morgantown,45465,47467,50016,WV,"Morgantown, WV",2131,4,Morgantown, WV,-79.96,39.66,"Morgantown,  WV","Morgantown,  WV","Morgantown, Morganton"
+Morristown,38103,41036,44279,TN,"Morristown, TN",2136,1,Morristown, TN,-83.35,36.2,"Morristown,  TN","Morristown,  TN",Morristown
+Anacortes,54843,58996,64093,WA,"Anacortes, WA",64,2,Anacortes, WA,-122.61,48.51,"Anacortes,  WA","Anacortes,  WA",Anacortes
+Muncie,38762,42000,45325,IN,"Muncie, IN",2168,3,Muncie, IN,-85.42,40.19,"Muncie,  IN","Muncie,  IN",Muncie
+Muskegon,39646,44159,46701,MI,"Muskegon, MI",2182,2,Muskegon, MI,-86.21,43.16,"Muskegon,  MI","Muskegon,  MI",Muskegon
+NorthMyrtleBeach,43777,46619,49234,SCNC,"NorthMyrtleBeach, SCNC",2183,13,Myrtle Beach, SC,-78.88,33.72,"Myrtle Beach,  SC","Myrtle Beach,  SC",North Myrtle Beach
+Napa,74379,82643,90608,CA,"Napa, CA",2191,9,Napa, CA,-122.27,38.28,"Napa,  CA","Napa,  CA",Napa
+MarcoIsland,110272,112479,117984,FL,"MarcoIsland, FL",1897,1,Maitland, FL,-81.36,28.63,"Maitland,  FL","Maitland,  FL",Marco Island
+Franklin,61366,64368,70026,TN,"Franklin, TN",1122,8,Franklin, TN,-86.88,35.89,"Franklin,  TN","Franklin,  TN",Franklin
+NewBern,46182,49815,53762,NC,"NewBern, NC",0,1,Aberdeen, NC,-79.42,35.16,"Aberdeen,  NC","Aberdeen,  NC","New Bern, Newberry"
+Milford,56888,60128,64643,CT,"Milford, CT",2049,2,Milford, CT,-73.04,41.24,"Milford,  CT","Milford,  CT",Milford
+Metairie,55050,57532,61327,LA,"Metairie, LA",2023,5,Metairie, LA,-90.16,30,"Metairie,  LA","Metairie,  LA",Metairie
+JerseyCity,74968,78727,85136,NYNJPA,"JerseyCity, NYNJPA",1401,3,Hershey, PA,-76.68,40.26,"Hershey,  PA","Hershey,  PA",Jersey City
+Niles,49735,54303,59656,MI,"Niles, MI",2269,1,Niles, MI,-86.25,41.82,"Niles,  MI","Niles,  MI",Niles
+Bradenton,63279,65709,69376,FL,"Bradenton, FL",328,8,Bradenton, FL,-82.62,27.5,"Bradenton,  FL","Bradenton,  FL",Bradenton
+Brent,45744,48643,52548,FL,"Brent, FL",328,8,Bradenton, FL,-82.62,27.5,"Bradenton,  FL","Bradenton,  FL",Brent
+NewLondon,58362,61222,63877,CT,"NewLondon, CT",2249,2,Newington, CT,-72.72,41.7,"Newington,  CT","Newington,  CT","New London, London"
+Ocala,39153,41960,45152,FL,"Ocala, FL",2372,5,Ocala, FL,-82.16,29.17,"Ocala,  FL","Ocala,  FL",Ocala
+OceanCity,63302,68326,72010,NJ,"OceanCity, NJ",2377,1,Ocean, NJ,-74.05,40.23,"Ocean,  NJ","Ocean,  NJ",Ocean City
+Odessa,52948,49351,53610,TX,"Odessa, TX",2384,5,Odessa, TX,-102.35,31.89,"Odessa,  TX","Odessa,  TX",Odessa
+Clearfield,45219,48521,52305,UT,"Clearfield, UT",594,1,Clearfield, UT,-112.02,41.12,"Clearfield,  UT","Clearfield,  UT",Clearfield
+OklahomaCity,51658,53706,57150,OK,"OklahomaCity, OK",2389,17,Oklahoma City, OK,-97.62,35.46,"Oklahoma City,  OK","Oklahoma City,  OK",Oklahoma City
+Tumwater,52297,56527,61062,WA,"Tumwater, WA",3243,4,Tumwater, WA,-122.91,47,"Tumwater,  WA","Tumwater,  WA",Tumwater
+CouncilBluffs,58393,60450,64229,NEIA,"CouncilBluffs, NEIA",655,1,Columbus, NE,-97.37,41.44,"Columbus,  NE","Columbus,  NE",Council Bluffs
+Sanford,45562,48160,53102,FL,"Sanford, FL",2839,2,Sanford, FL,-81.24,28.78,"Sanford,  FL","Sanford,  FL","Sanford, Sanford"
+Neenah,49145,51751,55202,WI,"Neenah, WI",2206,1,Neenah, WI,-88.48,44.18,"Neenah,  WI","Neenah,  WI",Neenah
+Owensboro,42264,45772,49859,KY,"Owensboro, KY",2438,4,Owensboro, KY,-87.07,37.76,"Owensboro,  KY","Owensboro,  KY",Owensboro
+Ventura,63833,68647,73375,CA,"Ventura, CA",3298,13,Ventura, CA,-119.29,34.28,"Ventura,  CA","Ventura,  CA",Ventura
+Titusville,48725,51769,55477,FL,"Titusville, FL",3201,2,Titusville, FL,-80.84,28.55,"Titusville,  FL","Titusville,  FL","Titusville, Pottsville"
+PanamaCity,46452,50394,53980,FL,"PanamaCity, FL",2473,1,Panama City, FL,-85.65,30.19,"Panama City,  FL","Panama City,  FL",Panama City
+Vienna,45987,47599,51674,WV,"Vienna, WV",3312,4,Vienna, VA,-77.24,38.93,"Vienna,  VA","Vienna,  VA",Vienna
+Peoria,48555,52586,55784,IL,"Peoria, IL",882,1,East Peoria, IL,-89.59,40.67,"East Peoria,  IL","East Peoria,  IL",Peoria
+Wilmington,64723,68200,72379,PANJDEMD,"Wilmington, PANJDEMD",3525,8,Wilmington, DE,-75.54,39.83,"Wilmington,  DE","Wilmington,  DE","Wilmington, Wilmington"
+Chandler,50757,54907,58308,AZ,"Chandler, AZ",524,27,Chandler, AZ,-111.8,33.22,"Chandler,  AZ","Chandler,  AZ",Chandler
+PineBluff,34327,37597,41416,AR,"PineBluff, AR",2534,3,Pinellas Park, FL,-82.68,27.84,"Pinellas Park,  FL","Pinellas Park,  FL",Pine Bluff
+Pittsburgh,58396,62103,65730,PA,"Pittsburgh, PA",2542,43,Pittsburgh, PA,-79.96,40.44,"Pittsburgh,  PA","Pittsburgh,  PA","Pittsburgh, Pittsburg"
+Pittsfield,56861,61586,65050,MA,"Pittsfield, MA",2544,2,Pittsfield, MA,-73.2,42.47,"Pittsfield,  MA","Pittsfield,  MA",Pittsfield
+Pocatello,39418,42732,45244,ID,"Pocatello, ID",2574,4,Pocatello, ID,-112.45,42.89,"Pocatello,  ID","Pocatello,  ID",Pocatello
+SouthPortland,60019,64306,68555,ME,"SouthPortland, ME",2605,7,Portland, ME,-70.34,43.63,"Portland,  ME","Portland,  ME",South Portland
+Hillsboro,59189,63256,68374,ORWA,"Hillsboro, ORWA",1420,12,Hillsboro, OR,-122.87,45.54,"Hillsboro,  OR","Hillsboro,  OR",Hillsboro
+PortStLucie,59414,61706,66630,FL,"PortStLucie, FL",2597,1,Port Richey, FL,-82.71,28.29,"Port Richey,  FL","Port Richey,  FL",Port St. Lucie
+Middletown,55119,58736,62428,NY,"Middletown, NY",2040,2,Middletown, NY,-74.37,41.45,"Middletown,  NY","Middletown,  NY","Middletown, Middletown"
+Prescott,43306,47203,49060,AZ,"Prescott, AZ",2621,3,Prescott Valley, AZ,-112.34,34.59,"Prescott Valley,  AZ","Prescott Valley,  AZ",Prescott
+Warwick,55560,60347,64566,RIMA,"Warwick, RIMA",3363,6,Warwick, RI,-71.41,41.73,"Warwick,  RI","Warwick,  RI",Warwick
+Orem,43996,47167,50616,UT,"Orem, UT",2416,4,Orem, UT,-111.7,40.3,"Orem,  UT","Orem,  UT",Orem
+Pueblo,39857,43513,46927,CO,"Pueblo, CO",2634,1,Pueblo West, CO,-104.73,38.31,"Pueblo West,  CO","Pueblo West,  CO",Pueblo
+PuntaGorda,46707,49052,51677,FL,"PuntaGorda, FL",2511,9,Pensacola, FL,-87.21,30.47,"Pensacola,  FL","Pensacola,  FL",Punta Gorda
+Racine,50274,53005,56884,WI,"Racine, WI",2647,2,Racine, WI,-87.85,42.7,"Racine,  WI","Racine,  WI",Racine
+Cary,58285,61724,66428,NC,"Cary, NC",488,17,Cary, NC,-78.79,35.7,"Cary,  NC","Cary,  NC",Cary
+RapidCity,54068,58442,61259,SD,"RapidCity, SD",2831,2,Sand City, CA,-121.84,36.62,"Sand City,  CA","Sand City,  CA",Rapid City
+Reading,50657,55045,57970,PA,"Reading, PA",2662,1,Reading, PA,-75.86,40.31,"Reading,  PA","Reading,  PA","Reading, Redding"
+Redding,46113,51514,54972,CA,"Redding, CA",2666,10,Redding, CA,-122.42,40.57,"Redding,  CA","Redding,  CA","Redding, Reading"
+Reno,62103,65705,71489,NV,"Reno, NV",2676,27,Reno, NV,-119.74,39.42,"Reno,  NV","Reno,  NV","Reno, Fresno"
+RichmondCounty,43905,46875,49432,GASC,"RichmondCounty, GASC",2692,2,Richmond, CA,-122.33,37.93,"Richmond,  CA","Richmond,  CA","Richmond County, Richmond"
+Ontario,42326,46658,50384,CA,"Ontario, CA",2404,13,Ontario, CA,-117.67,34.09,"Ontario,  CA","Ontario,  CA","Ontario, Ontario"
+Roanoke,46975,50394,53939,VA,"Roanoke, VA",2721,6,Roanoke, VA,-79.97,37.23,"Roanoke,  VA","Roanoke,  VA","Roanoke, Roanoke Rapids"
+Rochester,55431,59428,63052,MN,"Rochester, MN",2725,7,Rochester, MN,-92.46,44.02,"Rochester,  MN","Rochester,  MN","Rochester, Rochester"
+Rochester,51735,55794,58500,NY,"Rochester, NY",2726,8,Rochester, NY,-77.69,43.13,"Rochester,  NY","Rochester,  NY","Rochester, Rochester"
+Rockford,44225,47650,51140,IL,"Rockford, IL",2731,6,Rockford, IL,-89.03,42.24,"Rockford,  IL","Rockford,  IL",Rockford
+RockyMount,41793,44808,48812,NC,"RockyMount, NC",2757,1,Rosemount, MN,-93.13,44.73,"Rosemount,  MN","Rosemount,  MN",Rocky Mount
+Rome,39008,41411,44803,GA,"Rome, GA",2748,2,Rome, GA,-85.16,34.25,"Rome,  GA","Rome,  GA","Rome, Rome"
+Folsom,57151,62166,65972,CA,"Folsom, CA",1050,12,Folsom, CA,-121.11,38.65,"Folsom,  CA","Folsom,  CA",Folsom
+Saginaw,42114,46419,49274,MI,"Saginaw, MI",2785,2,Saginaw, MI,-83.97,43.48,"Saginaw,  MI","Saginaw,  MI",Saginaw
+StCloud,48254,52432,55987,MN,"StCloud, MN",3052,1,St Cloud, MN,-94.15,45.57,"St Cloud,  MN","St Cloud,  MN",St. Cloud
+StGeorge,42732,45178,47162,UT,"StGeorge, UT",3069,5,St. George, UT,-113.6,37.13,"St. George,  UT","St. George,  UT",St. George
+StJoseph,40884,43689,46420,MOKS,"StJoseph, MOKS",3208,5,Topeka, KS,-95.73,39.05,"Topeka,  KS","Topeka,  KS",St. Joseph
+Topeka,47024,50582,53655,KS,"Topeka, KS",3208,5,Topeka, KS,-95.73,39.05,"Topeka,  KS","Topeka,  KS",Topeka
+StLouis,57622,60949,64769,MOIL,"StLouis, MOIL",1805,2,Lisle, IL,-88.07,41.79,"Lisle,  IL","Lisle,  IL",St. Louis
+Salem,44540,48377,52971,OR,"Salem, OR",2793,13,Salem, OR,-123.04,44.94,"Salem,  OR","Salem,  OR","Salem, Salem"
+Salinas,56313,61105,63449,CA,"Salinas, CA",2797,12,Salinas, CA,-121.65,36.66,"Salinas,  CA","Salinas,  CA","Salinas, Salina"
+Salisbury,50308,52544,55698,MDDE,"Salisbury, MDDE",2798,2,Salisbury, MD,-75.57,38.41,"Salisbury,  MD","Salisbury,  MD",Salisbury
+SaltLakeCity,52655,57114,61551,UT,"SaltLakeCity, UT",3024,4,Southlake, TX,-97.13,32.94,"Southlake,  TX","Southlake,  TX",Salt Lake City
+SanAngelo,52389,56176,60187,TX,"SanAngelo, TX",2803,4,San Angelo, TX,-100.48,31.45,"San Angelo,  TX","San Angelo,  TX",San Angelo
+NewBraunfels,48819,50214,53648,TX,"NewBraunfels, TX",2214,2,New Braunfels, TX,-98.13,29.69,"New Braunfels,  TX","New Braunfels,  TX",New Braunfels
+Carlsbad,62533,67830,72637,CA,"Carlsbad, CA",473,11,Carlsbad, CA,-117.27,33.09,"Carlsbad,  CA","Carlsbad,  CA",Carlsbad
+Berkeley,101569,110342,123711,CA,"Berkeley, CA",247,5,Berkeley, CA,-122.27,37.87,"Berkeley,  CA","Berkeley,  CA","Berkeley, Beckley"
+SantaClara,111825,120805,136338,CA,"SantaClara, CA",2102,4,Montclair, CA,-117.69,34.09,"Montclair,  CA","Montclair,  CA",Santa Clara
+PasoRobles,59806,63652,66617,CA,"PasoRobles, CA",2490,5,Paso Robles, CA,-120.66,35.62,"Paso Robles,  CA","Paso Robles,  CA",Paso Robles
+Watsonville,70129,77181,85554,CA,"Watsonville, CA",3384,2,Watsonville, CA,-121.77,36.92,"Watsonville,  CA","Watsonville,  CA",Watsonville
+SantaFe,61879,65042,69528,NM,"SantaFe, NM",2848,10,Santa Fe, NM,-105.95,35.68,"Santa Fe,  NM","Santa Fe,  NM",Santa Fe
+SantaBarbara,63586,69457,73995,CA,"SantaBarbara, CA",2843,10,Santa Barbara, CA,-119.65,34.42,"Santa Barbara,  CA","Santa Barbara,  CA",Santa Barbara
+Petaluma,66715,73526,81006,CA,"Petaluma, CA",2518,8,Petaluma, CA,-122.63,38.24,"Petaluma,  CA","Petaluma,  CA",Petaluma
+Savannah,47046,50432,53570,GA,"Savannah, GA",2862,15,Savannah, GA,-81.23,32.14,"Savannah,  GA","Savannah,  GA",Savannah
+Barre,46092,50190,53256,PA,"Barre, PA",3509,1,Wilkes Barre, PA,-75.89,41.24,"Wilkes Barre,  PA","Wilkes Barre,  PA","Barre, Barre"
+Bellevue,77788,82342,89274,WA,"Bellevue, WA",224,29,Bellevue, WA,-122.15,47.6,"Bellevue,  WA","Bellevue,  WA",Bellevue
+AvonPark,36309,39163,41568,FL,"AvonPark, FL",2408,3,Orange Park, FL,-81.75,30.15,"Orange Park,  FL","Orange Park,  FL",Avon Park
+Sheboygan,52696,55282,58425,WI,"Sheboygan, WI",2917,3,Sheboygan, WI,-87.72,43.76,"Sheboygan,  WI","Sheboygan,  WI",Sheboygan
+Denison,45771,48260,52055,TX,"Denison, TX",806,10,Denton, TX,-97.13,33.23,"Denton,  TX","Denton,  TX",Denison
+BossierCity,47762,51262,55198,LA,"BossierCity, LA",313,4,Bossier City, LA,-93.7,32.53,"Bossier City,  LA","Bossier City,  LA",Bossier City
+Douglas,41557,46909,49096,AZ,"Douglas, AZ",2275,2,Nogales, AZ,-110.94,31.37,"Nogales,  AZ","Nogales,  AZ","Douglas, Douglas"
+SiouxCity,51981,55534,59993,IANESD,"SiouxCity, IANESD",2957,11,Sioux Falls, SD,-96.77,43.51,"Sioux Falls,  SD","Sioux Falls,  SD",Sioux City
+SiouxFalls,63690,67689,71570,SD,"SiouxFalls, SD",2957,11,Sioux Falls, SD,-96.77,43.51,"Sioux Falls,  SD","Sioux Falls,  SD",Sioux Falls
+Mishawaka,47524,50681,56109,INMI,"Mishawaka, INMI",2080,6,Mishawaka, IN,-86.19,41.72,"Mishawaka,  IN","Mishawaka,  IN",Mishawaka
+Spartanburg,45010,47641,50596,SC,"Spartanburg, SC",3030,4,Spartanburg, SC,-81.99,34.94,"Spartanburg,  SC","Spartanburg,  SC",Spartanburg
+SpokaneValley,45651,49153,53278,WA,"SpokaneValley, WA",3034,3,Spokane Valley, WA,-117.28,47.68,"Spokane Valley,  WA","Spokane Valley,  WA",Spokane Valley
+Springfield,49276,52904,57126,IL,"Springfield, IL",3043,7,Springfield, IL,-89.7,39.77,"Springfield,  IL","Springfield,  IL","Springfield, Springfield"
+Springfield,53846,58312,61523,MA,"Springfield, MA",3044,1,Springfield, MA,-72.59,42.1,"Springfield,  MA","Springfield,  MA","Springfield, Springfield"
+Springfield,43345,45642,48664,MO,"Springfield, MO",3045,17,Springfield, MO,-93.27,37.16,"Springfield,  MO","Springfield,  MO","Springfield, Springfield"
+Springfield,41168,44990,47929,OH,"Springfield, OH",3045,17,Springfield, MO,-93.27,37.16,"Springfield,  MO","Springfield,  MO","Springfield, Springfield"
+StateCollege,49211,52699,54994,PA,"StateCollege, PA",639,1,Collegeville, PA,-75.48,40.16,"Collegeville,  PA","Collegeville,  PA",State College
+Staunton,45236,48204,51965,VA,"Staunton, VA",3090,1,Staunton, VA,-79.04,38.13,"Staunton,  VA","Staunton,  VA",Staunton
+Stockton,45547,51766,57783,CA,"Stockton, CA",3102,18,Stockton, CA,-121.32,38,"Stockton,  CA","Stockton,  CA",Stockton
+Sumter,39354,42467,46550,SC,"Sumter, SC",3130,1,Sumter, SC,-80.39,33.96,"Sumter,  SC","Sumter,  SC",Sumter
+Syracuse,50461,55027,58137,NY,"Syracuse, NY",3157,7,Syracuse, NY,-76.1,43.05,"Syracuse,  NY","Syracuse,  NY",Syracuse
+Tallahassee,44955,47882,52279,FL,"Tallahassee, FL",3162,14,Tallahassee, FL,-84.25,30.5,"Tallahassee,  FL","Tallahassee,  FL",Tallahassee
+Clearwater,50650,53847,58315,FL,"Clearwater, FL",595,10,Clearwater, FL,-82.72,27.96,"Clearwater,  FL","Clearwater,  FL",Clearwater
+TerreHaute,38520,42029,45537,IN,"TerreHaute, IN",931,8,Elkhart, IN,-85.93,41.64,"Elkhart,  IN","Elkhart,  IN",Terre Haute
+Texarkana,39088,42054,45058,TXAR,"Texarkana, TXAR",3181,1,Texarkana, AR,-94.04,33.46,"Texarkana,  AR","Texarkana,  AR",Texarkana
+TheVillages,59209,60900,64282,FL,"TheVillages, FL",3187,1,The Villages, FL,-81.97,28.91,"The Villages,  FL","The Villages,  FL",The Villages
+Toledo,48157,51432,54423,OH,"Toledo, OH",3202,9,Toledo, OH,-83.62,41.68,"Toledo,  OH","Toledo,  OH",Toledo
+Princeton,68721,71990,77911,NJ,"Princeton, NJ",2626,2,Princeton, NJ,-74.66,40.35,"Princeton,  NJ","Princeton,  NJ",Princeton
+Tucson,45996,50131,52942,AZ,"Tucson, AZ",3237,59,Tucson, AZ,-111.09,32.13,"Tucson,  AZ","Tucson,  AZ",Tucson
+Tulsa,56341,56708,59941,OK,"Tulsa, OK",3242,22,Tulsa, OK,-95.89,36,"Tulsa,  OK","Tulsa,  OK",Tulsa
+Tyler,56639,55832,60284,TX,"Tyler, TX",3254,6,Tyler, TX,-95.28,32.31,"Tyler,  TX","Tyler,  TX",Tyler
+UrbanHonolulu,57560,60114,63912,HI,"UrbanHonolulu, HI",1449,42,Honolulu, HI,-157.83,21.28,"Honolulu,  HI","Honolulu,  HI",Urban Honolulu
+Rome,45629,49489,52919,NY,"Rome, NY",2780,1,Rye, NY,-73.68,40.98,"Rye,  NY","Rye,  NY","Rome, Rome"
+Valdosta,37050,40091,42585,GA,"Valdosta, GA",3282,3,Valdosta, GA,-83.3,30.88,"Valdosta,  GA","Valdosta,  GA",Valdosta
+Vallejo,51819,58406,65448,CA,"Vallejo, CA",3284,7,Vallejo, CA,-122.21,38.08,"Vallejo,  CA","Vallejo,  CA",Vallejo
+Victoria,53029,54067,58294,TX,"Victoria, TX",3310,2,Victoria, TX,-97,28.86,"Victoria,  TX","Victoria,  TX",Victoria
+Bridgeton,40014,43844,47559,NJ,"Bridgeton, NJ",350,1,Bridgeton, MO,-90.43,38.75,"Bridgeton,  MO","Bridgeton,  MO",Bridgeton
+NewportNews,49553,52895,56716,VANC,"NewportNews, VANC",2253,6,Newport News, VA,-76.49,37.07,"Newport News,  VA","Newport News,  VA","Newport News, Newport"
+Visalia,40061,45556,47986,CA,"Visalia, CA",3319,10,Visalia, CA,-119.29,36.33,"Visalia,  CA","Visalia,  CA","Visalia, Vidalia"
+Waco,42235,45477,49151,TX,"Waco, TX",3327,6,Waco, TX,-97.11,31.55,"Waco,  TX","Waco,  TX",Waco
+WallaWalla,46483,50520,53845,WA,"WallaWalla, WA",3341,5,Walla Walla, WA,-118.35,46.05,"Walla Walla,  WA","Walla Walla,  WA",Walla Walla
+WarnerRobins,42458,44908,48160,GA,"WarnerRobins, GA",2277,3,Norcross, GA,-84.17,33.92,"Norcross,  GA","Norcross,  GA",Warner Robins
+FortDrum,45905,50368,53130,NY,"FortDrum, NY",1991,3,Medford, NY,-73,40.82,"Medford,  NY","Medford,  NY",Fort Drum
+Weston,50993,54039,56947,WI,"Weston, WI",3479,3,Weston, FL,-80.38,26.1,"Weston,  FL","Weston,  FL","Weston, Easton"
+Steubenville,41769,45217,48558,WVOH,"Steubenville, WVOH",3093,1,Stephenville, TX,-98.24,32.2,"Stephenville,  TX","Stephenville,  TX","Steubenville, Stephenville"
+Wenatchee,49820,54443,58009,WA,"Wenatchee, WA",862,1,E Wenatchee, WA,-120.28,47.4,"E Wenatchee,  WA","E Wenatchee,  WA",Wenatchee
+Wheeling,47503,47257,50716,WVOH,"Wheeling, WVOH",3491,1,Wheeling, WV,-80.7,40.07,"Wheeling,  WV","Wheeling,  WV",Wheeling
+Wichita,51801,53827,56343,KS,"Wichita, KS",3505,19,Wichita, KS,-97.24,37.72,"Wichita,  KS","Wichita,  KS","Wichita, Wichita Falls"
+WichitaFalls,45697,47843,50905,TX,"WichitaFalls, TX",3517,1,Willis, TX,-95.49,30.39,"Willis,  TX","Willis,  TX","Wichita Falls, Wichita"
+Williamsport,44394,48075,50464,PA,"Williamsport, PA",3514,1,Williamsport, PA,-77,41.24,"Williamsport,  PA","Williamsport,  PA",Williamsport
+Wilmington,49275,52486,55750,NC,"Wilmington, NC",3527,9,Wilmington, NC,-77.91,34.22,"Wilmington,  NC","Wilmington,  NC","Wilmington, Wilmington"
+Winchester,50120,53040,56544,VAWV,"Winchester, VAWV",3535,4,Winchester, VA,-78.13,39.19,"Winchester,  VA","Winchester,  VA","Winchester, Manchester"
+Salem,46218,49044,53154,NC,"Salem, NC",3542,3,Winston Salem, NC,-80.27,36.09,"Winston Salem,  NC","Winston Salem,  NC","Salem, Salem"
+Yakima,43208,47315,50872,WA,"Yakima, WA",3585,11,Yakima, WA,-120.56,46.62,"Yakima,  WA","Yakima,  WA",Yakima
+Hanover,51295,54808,57870,PA,"Hanover, PA",1347,2,Hanover, PA,-76.99,39.83,"Hanover,  PA","Hanover,  PA",Hanover
+Worcester,55671,60364,64540,MACT,"Worcester, MACT",3576,3,Worcester, MA,-71.81,42.29,"Worcester,  MA","Worcester,  MA",Worcester
+YubaCity,42979,47947,51174,CA,"YubaCity, CA",3601,3,Yucaipa, CA,-117.12,34.03,"Yucaipa,  CA","Yucaipa,  CA",Yuba City
+Yuma,37624,42732,44299,AZ,"Yuma, AZ",3605,8,Yuma, AZ,-114.61,32.7,"Yuma,  AZ","Yuma,  AZ",Yuma
